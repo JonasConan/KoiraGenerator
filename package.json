@@ -1,6 +1,6 @@
 {
   "title": "KoiraGenerator",
-  "description": "Tabris.js - KPS",
+  "description": "Tabris.js - KoiraGenerator",
   "category": "Small Apps",
   "main": "src/KoiraGenerator.js",
   "dependencies": {
