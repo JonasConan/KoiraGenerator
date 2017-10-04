@@ -1,7 +1,7 @@
- <?xml version='1.0' encoding='utf-8'?>
-<widget id="KoiraGenerator.app" version="1.0.0">
-  <name>KoiraGenerator</name>
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="kps.app" version="1.0.0">
+  <name>KPS</name>
   <description>
-    KoiraGeneraattori
+    Koira generaattori
   </description>
 </widget>
